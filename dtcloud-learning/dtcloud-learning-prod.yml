@@ -1,5 +1,4 @@
 drivers: com.jdbc.mysql.Driver
 spring:
   datasource:
-    username: hello
     password: ohmygod...
